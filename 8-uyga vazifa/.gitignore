@@ -1,0 +1,11 @@
+# OS va IDE vaqtinchalik fayllar
+*.log
+*.tmp
+*.pyc
+__pycache__/
+
+# OS X
+.DS_Store
+
+# Python virtual environments
+venv/
